@@ -20,4 +20,11 @@ def main():
         print("Invalid time series. Please choose 'daily', 'weekly', or 'monthly'.")
         return
     
+    print(f"Fetching {time_series} data for {stock_symbol} from {start_date} to {end_date}...")
+
+
+
+
+
+
     
