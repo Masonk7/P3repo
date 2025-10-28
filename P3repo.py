@@ -1,3 +1,4 @@
+import datetime
 def main():
     print("=== Stock Data Visualizer ===")
 
